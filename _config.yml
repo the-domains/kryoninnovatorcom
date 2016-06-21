@@ -1,0 +1,14 @@
+layout_spectrum: 0.7224520409945399
+typography_spectrum: 0.6473211250267923
+color:
+  brandStrength: 0.16829886240884662
+  lightness: 0.4320975220762193
+  saturation: 0.5051386945415288
+  rhythmicContrast: 0.5578405843116343
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: kryoninnovator.com
