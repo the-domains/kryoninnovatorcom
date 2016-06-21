@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kryoninnovator.com]]></title>
+        <description><![CDATA[kryoninnovator.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 09:11:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KRYON Innovator Blog]]></title>
+            <description><![CDATA[<article><h1>KRYON Innovator Blog</h1><p>The Professionalize Innovation Consulting Firm working in 46 industries. We are part of Amplify Innovation service in Asia, Germany, Sweden, and Mexico.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f791833352b35295b54eac7599ff8873/noop.jpg?input=http%3A%2F%2Fi0.wp.com%2Fblog.kryoninnovator.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fcropped-KRYON_LOGO_Final-02-1.jpg%3Fresize%3D240%252C240"></article>]]></description>
+            <link>http://blog.kryoninnovator.com/</link>
+            <guid isPermaLink="false">adadaf02-f4b7-4909-bd91-623cf351b913</guid>
+            <pubDate>Tue, 21 Jun 2016 09:10:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
