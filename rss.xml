@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[kryoninnovator.com]]></title>
         <description><![CDATA[kryoninnovator.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kryoninnovatorcom/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 21 Jun 2016 09:11:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/kryoninnovatorcom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Water Saving Sanitary Ware]]></title>
+            <description><![CDATA[<article><h1>Water Saving Sanitary Ware</h1><p>Villeroy & Boch was aiming to reduce the water consumption in toilets and hereby create a new toilet concept that offers customers around the world more value than the traditional design. Usually, a standard toilet uses water up to 6 liters per flush. With average 5... #multiplication #ourworks</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb5a642aa4eb3c18fb1ff1f25cc15353/noop.png?input=http%3A%2F%2Fi1.wp.com%2Fblog.kryoninnovator.com%2Fwp-content%2Fuploads%2F2016%2F05%2FProduct_Innovation-VB-Blog.png%3Fresize%3D600%252C315"></article>]]></description>
+            <link>http://blog.kryoninnovator.com/product-innovation/villeroy-boch/</link>
+            <guid isPermaLink="false">78fb53e2-fe67-45a3-8007-5c167cdf6790</guid>
+            <pubDate>Tue, 21 Jun 2016 09:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KRYON Innovator Blog]]></title>
             <description><![CDATA[<article><h1>KRYON Innovator Blog</h1><p>The Professionalize Innovation Consulting Firm working in 46 industries. We are part of Amplify Innovation service in Asia, Germany, Sweden, and Mexico.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f791833352b35295b54eac7599ff8873/noop.jpg?input=http%3A%2F%2Fi0.wp.com%2Fblog.kryoninnovator.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fcropped-KRYON_LOGO_Final-02-1.jpg%3Fresize%3D240%252C240"></article>]]></description>
